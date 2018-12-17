@@ -5,6 +5,7 @@ class App extends Component {
 		return (
 			<div>
 				<h1>Days Past</h1>
+				<h2>On this day in history...</h2>
 			</div>
 		);
 	}
