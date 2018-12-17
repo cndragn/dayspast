@@ -2,7 +2,7 @@
 
 Demo: http://dayspast.surge.sh/
 
-CI/CD Build: https://travis-ci.com/cndragn/dayspast/settings
+CI/CD Build: https://travis-ci.com/cndragn/dayspast
 
 ## Description
 
